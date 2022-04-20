@@ -1,0 +1,27 @@
+body {
+  font: 20px Arial, sans-serif;
+}
+h3 {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.pd-top {
+  padding-top: 30px;
+}
+.pd-bottom {
+  padding-bottom: 30px;
+}
+
+.quem-somos {
+  background-color: dodgerblue;
+  color: white;
+}
+
+.parceiros {
+  background-color: black;
+  color: white;
+}
+.bg-footer {
+  background-color: black;
+  color: white;
+}
